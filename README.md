@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sneha1-1
+- 👋 Hi, I’m Sneha Bhalerao 
 - 👀 I’m interested in Data Science related topics
 - 🌱 I’m currently learning Artificial Intelligence and machine learning
 
