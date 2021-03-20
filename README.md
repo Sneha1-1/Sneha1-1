@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sneha1-1
-- 👀 I’m interested in Data Science topics
+- 👀 I’m interested in Data Science related topics
 - 🌱 I’m currently learning Artificial Intelligence and machine learning
 - 📫 How to reach me : bsneha951@gmail.com
 
