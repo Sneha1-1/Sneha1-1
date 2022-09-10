@@ -53,3 +53,14 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha1-1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :writing_hand: Blog Posts :
+
+<a href="https://medium.com/@sarabhalerao25/home-credit-default-risk-a1a56ee66f35">Home defaulter prediction </a>
+
+<a href="https://medium.com/@sarabhalerao25/descriptive-statistics-572d31ae12f2">Descriptive Statistics</a>
+
+<a href="https://medium.com/@sarabhalerao25/introduction-to-probability-part-i-9f9e0a7e1710">Introduction to Probability</a>
+
+<a href="https://medium.com/@sarabhalerao25/types-of-probability-part-ii-9a4b5f52fbc8">Types of Probability</a>
