@@ -29,8 +29,6 @@
 
 :eyes: I’m interested in Data Science and Artificial Intelligence
 
-:books: Pursuing a Post Graduate Certificate course in Investment Banking from IIM Indore
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
