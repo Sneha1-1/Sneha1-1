@@ -23,11 +23,11 @@
 
 :raising_hand_women: Hi, I’m Sneha Bhalerao 
 
-:telescope: I am working currently as a Machine learning Engineer
+:telescope: I am working currently as a AI Engineer
 
-:seedling: I am focused on gaining Investment banking knoweledge.
+:seedling: I am focused on learning about the cutting edge techniques in the AI field.
 
-:eyes: I’m interested in Data Science and Artificial Intelligence
+:eyes: I’m interested in Artificial Intelligence and Computational Linguistics
 
 
 ### :hammer_and_wrench: Languages and Tools :
