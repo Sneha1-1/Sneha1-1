@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src="https://alphacoders.com" align="right" alt="Coding Girl" width="230" />
-
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Female Coder" width="150" />
+</p>
 
 
 <div id="badges" align="center">
