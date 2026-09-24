@@ -10,7 +10,7 @@ This GitHub is a collection of my **personal AI projects, research explorations,
 
 ## 🚀 Currently Building
 
-* Personal Research *
+### * Personal Research *
 ### 🔬 Adaptive RAG
 
 Developing an adaptive Retrieval-Augmented Generation approach that explores how retrieval strategies can adapt to different data characteristics and queries, moving beyond traditional fixed RAG pipelines.
@@ -19,7 +19,7 @@ Developing an adaptive Retrieval-Augmented Generation approach that explores how
 
 *Personal research · In progress*
 
-* Educational Content *
+### * Educational Content *
 ### 🎥 Principles to Practice
 
 An upcoming educational YouTube series covering **Computer Science, Software Engineering, System Design, and AI** — starting from foundational concepts and building toward practical applications.
