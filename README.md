@@ -1,65 +1,109 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Sneha Bhalerao · Experiments in AI
 
+Hi, I'm Sneha 👋
 
+I like **learning by building** — exploring an idea, turning it into a small experiment, and seeing what I can learn from it.
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sneha-bhalerao-ab881922/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC3rcqXZQ7G7JLDmFi3HsOnA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-<div align="center">
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
-
-### :woman_technologist: About Me :
-
-:raising_hand_women: Hi, I’m Sneha Bhalerao 
-
-:telescope: I am working currently as a AI Engineer
-
-:seedling: I am focused on learning about the cutting edge techniques in the AI field.
-
-:eyes: I’m interested in Artificial Intelligence and Computational Linguistics
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Shell scripting in Unix" alt="Shell Scripting in Unix" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle 10g" alt="Oracle 10g" width="40" height="40"/>&nbsp;
-</div>
-
+This GitHub is a collection of my **personal AI projects, research explorations, experiments, and things I build outside of my professional work**.
 
 ---
 
-### :fire: My Stats :
+## 🚀 Currently Building
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sneha1-1&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🔬 Adaptive RAG
 
+Developing an adaptive Retrieval-Augmented Generation approach that explores how retrieval strategies can adapt to different data characteristics and queries, moving beyond traditional fixed RAG pipelines.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha1-1)](https://github.com/anuraghazra/github-readme-stats)
+*Personal research · In progress*
 
+### 🎥 System Design — From the Ground Up
 
-### :writing_hand: Blog Posts :
+An upcoming YouTube series covering **System Design from foundational concepts to more advanced topics**, with a focus on clear, structured, and practical explanations.
 
-<a href="https://medium.com/@sarabhalerao25/home-credit-default-risk-a1a56ee66f35">Home defaulter prediction </a>
+*Upcoming · Coders Desk*
 
-<a href="https://medium.com/@sarabhalerao25/descriptive-statistics-572d31ae12f2">Descriptive Statistics</a>
+▶️ [YouTube — Coders Desk](https://www.youtube.com/@codersdesk-1)
 
-<a href="https://medium.com/@sarabhalerao25/introduction-to-probability-part-i-9f9e0a7e1710">Introduction to Probability</a>
+---
 
-<a href="https://medium.com/@sarabhalerao25/types-of-probability-part-ii-9a4b5f52fbc8">Types of Probability</a>
+## 🧪 AI Experiments
+
+I use this space to explore ideas around:
+
+* 🤖 Generative AI & LLMs
+* 🔎 Retrieval and RAG
+* 🧠 Machine Learning
+* 🧪 AI experimentation
+* 💻 Small prototypes and proof-of-concepts
+* 📚 New tools and frameworks as I learn them
+
+Some experiments become projects.
+Some stay experiments.
+
+Both are part of the learning process.
+
+---
+
+## 📂 What's Here
+
+### 🔬 Research Explorations
+
+Personal investigations into AI concepts and approaches that I find interesting.
+
+### 🧪 Experiments
+
+Small implementations built to test an idea, understand a technique, or answer a technical question.
+
+### 💻 Personal Projects
+
+Projects I build in my own time to learn, explore, or solve something interesting.
+
+### 📚 Learning Through Code
+
+Older projects, implementations, and experiments that reflect different stages of my learning journey.
+
+---
+
+## 🛠️ Areas I'm Exploring
+
+`Generative AI` · `LLMs` · `RAG` · `Retrieval` · `Machine Learning` · `AI Applications`
+
+---
+
+## 📌 A Few Things I've Built
+
+* **Adaptive RAG** — personal research exploration into adaptive retrieval
+* **ML / DL projects** — earlier machine learning and deep learning experiments
+* **Genetic Algorithm implementation** — exploration of neural architecture search concepts
+
+More experiments coming as I build them.
+
+---
+
+## 🌱 Currently Exploring
+
+I'm currently spending time learning and experimenting with:
+
+* LLM applications
+* Retrieval systems
+* RAG
+* Generative AI
+* Practical AI experimentation
+
+---
+
+## 🌐 Find Me Elsewhere
+
+🌍 [Portfolio](https://snehabhalerao.in)
+
+📝 [Medium](https://medium.com/@sarabhalerao25)
+
+▶️ [YouTube](https://www.youtube.com/@codersdesk-1)
+
+💼 [LinkedIn](https://www.linkedin.com/in/sneha-bhalerao1/)
+
+---
+
+### Build · Experiment · Learn · Repeat
+
+*My corner of GitHub for things I'm curious enough to build.*
