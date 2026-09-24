@@ -10,19 +10,25 @@ This GitHub is a collection of my **personal AI projects, research explorations,
 
 ## 🚀 Currently Building
 
+* Personal Research *
 ### 🔬 Adaptive RAG
 
 Developing an adaptive Retrieval-Augmented Generation approach that explores how retrieval strategies can adapt to different data characteristics and queries, moving beyond traditional fixed RAG pipelines.
+**Exploring:**
+`RAG` · `LLMs` · `Retrieval` · `Experimentation`
 
 *Personal research · In progress*
 
-### 🎥 System Design — From the Ground Up
+* Educational Content *
+### 🎥 Principles to Practice
 
-An upcoming YouTube series covering **System Design from foundational concepts to more advanced topics**, with a focus on clear, structured, and practical explanations.
+An upcoming educational YouTube series covering **Computer Science, Software Engineering, System Design, and AI** — starting from foundational concepts and building toward practical applications.
 
-*Upcoming · Coders Desk*
+The focus is on understanding the **principles and mechanics behind technology**, and then using that understanding to build.
 
-▶️ [YouTube — Coders Desk](https://www.youtube.com/@codersdesk-1)
+*Upcoming · Principles to Practice*
+
+▶️ [Principles to Practice on YouTube](https://www.youtube.com/@codersdesk-1)
 
 ---
 
@@ -35,12 +41,12 @@ I use this space to explore ideas around:
 * 🧠 Machine Learning
 * 🧪 AI experimentation
 * 💻 Small prototypes and proof-of-concepts
-* 📚 New tools and frameworks as I learn them
+* 📚 New tools and frameworks as I explore them
 
 Some experiments become projects.
 Some stay experiments.
 
-Both are part of the learning process.
+Both are part of the process.
 
 ---
 
@@ -52,7 +58,7 @@ Personal investigations into AI concepts and approaches that I find interesting.
 
 ### 🧪 Experiments
 
-Small implementations built to test an idea, understand a technique, or answer a technical question.
+Small implementations built to test an idea, understand a technique, or explore a technical question.
 
 ### 💻 Personal Projects
 
@@ -60,7 +66,7 @@ Projects I build in my own time to learn, explore, or solve something interestin
 
 ### 📚 Learning Through Code
 
-Older projects, implementations, and experiments that reflect different stages of my learning journey.
+Older projects, implementations, and experiments from different stages of my technical journey.
 
 ---
 
@@ -80,25 +86,13 @@ More experiments coming as I build them.
 
 ---
 
-## 🌱 Currently Exploring
-
-I'm currently spending time learning and experimenting with:
-
-* LLM applications
-* Retrieval systems
-* RAG
-* Generative AI
-* Practical AI experimentation
-
----
-
 ## 🌐 Find Me Elsewhere
 
 🌍 [Portfolio](https://snehabhalerao.in)
 
 📝 [Medium](https://medium.com/@sarabhalerao25)
 
-▶️ [YouTube](https://www.youtube.com/@codersdesk-1)
+▶️ [Principles to Practice — YouTube](https://www.youtube.com/@principles2practice)
 
 💼 [LinkedIn](https://www.linkedin.com/in/sneha-bhalerao1/)
 
